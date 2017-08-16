@@ -1,0 +1,295 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+22 items
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$1.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$10.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$11.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$2.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$3.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$4.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$7$$anonfun$apply$1.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$7.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$8.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$9.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$RemoveStopWords$$joinFunc$1$1$$anonfun$5.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$RemoveStopWords$$joinFunc$1$1$$anonfun$6.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$RemoveStopWords$$joinFunc$1$1.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$RemoveStopWords$$joinFunc$1$2.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$RemoveStopWords$$stopFunc$1$1.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$main$1.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$main$2$$anonfun$12.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$main$2$$anonfun$13.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$main$2.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$.class
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords.class
+binary dependencies:
+4 items
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.3.0.jar
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.3.0.jar
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> /Users/Alya/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+22 items
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> RemoveStopWords
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> RemoveStopWords$
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> RemoveStopWords$$anonfun$1
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> RemoveStopWords$$anonfun$10
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> RemoveStopWords$$anonfun$11
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> RemoveStopWords$$anonfun$2
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> RemoveStopWords$$anonfun$3
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> RemoveStopWords$$anonfun$4
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> RemoveStopWords$$anonfun$7
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> RemoveStopWords$$anonfun$7$$anonfun$apply$1
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> RemoveStopWords$$anonfun$8
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> RemoveStopWords$$anonfun$9
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> RemoveStopWords$$anonfun$RemoveStopWords$$joinFunc$1$1
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> RemoveStopWords$$anonfun$RemoveStopWords$$joinFunc$1$1$$anonfun$5
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> RemoveStopWords$$anonfun$RemoveStopWords$$joinFunc$1$1$$anonfun$6
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> RemoveStopWords$$anonfun$RemoveStopWords$$joinFunc$1$2
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> RemoveStopWords$$anonfun$RemoveStopWords$$stopFunc$1$1
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> RemoveStopWords$$anonfun$main$1
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> RemoveStopWords$$anonfun$main$1$$anonfun$apply$mcVI$sp$1
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> RemoveStopWords$$anonfun$main$2
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> RemoveStopWords$$anonfun$main$2$$anonfun$12
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> RemoveStopWords$$anonfun$main$2$$anonfun$13
+used names:
+151 items
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> !=
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> *
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> +
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> +=
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> -
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> ->
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> <init>
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> ==
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> AnyRef
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> Array
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> ArrayBuffer
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> ClassTag
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> DenseVector
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> Double
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> Int
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> LDA
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> Long
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> Map
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> Matrix
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> MultivariateStatisticalSummary
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> Predef
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> RDD
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> Range
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> RemoveStopWords
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> ScalaRunTime
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> Seq
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> Sorting
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> Source
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> SparkConf
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> SparkContext
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> Statistics
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> String
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> Unit
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> Vector
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> Vectors
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> _1
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> _2
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> a
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> any2ArrowAssoc
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> apache
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> apply
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> arrayClass
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> augmentString
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> cache
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> canBuildFrom
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> clustering
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> colStats
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> collect
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> collection
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> columns
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> conf
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> contains
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> convertToRDD
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> copyToArray
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> count
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> data
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> distinct
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> doubleArrayOps
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> equals
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> filter
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> flatMap
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> foreach
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> grouped
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> i
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> indexOf
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> intArrayOps
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> intWrapper
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> io
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> j
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> joinFunc
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> k
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> key
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> ldaModeltest
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> length
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> linalg
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> line
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> map
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> mat
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> materializeClassTag
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> max
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> mllib
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> mutable
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> ne
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> noStopArray
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> nonZeroIndices
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> nonzeroWordCounts
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> numRows
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> observ
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> occur
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> org
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> p
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> package
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> parallelize
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> print
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> println
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> quickSort
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> r
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> rdd
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> refArrayOps
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> row
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> rows
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> run
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> sc
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> scala
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> set
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> setAppName
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> setK
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> setMaster
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> size
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> spark
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> sparse
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> split
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> splitData
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> stat
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> stopArrayBuffer
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> stopFunc
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> stopWordsArray
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> stopWordstest
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> summary
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> temp
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> testingStopWords
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> textFile
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> throwMap
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> to
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> toArray
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> toDouble
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> toInt
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> toLong
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> toLowerCase
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> toSeq
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> topicTest
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> topics
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> topicsMatrix
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> transpose
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> trim
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> tweetDataStopWords
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> twitterStopWordsData
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> unary_!
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> uniqueNonZero
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> uniqueWordsStop
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> update
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> util
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> val1
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> value
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> vec
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> vectors
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> vocabSize
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> word
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> wrapRefArray
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> zipWithIndex
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> zippedDataStopWords
+product stamps:
+22 items
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$1.class -> lastModified(1428719219000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$10.class -> lastModified(1428719219000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$11.class -> lastModified(1428719219000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$2.class -> lastModified(1428719219000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$3.class -> lastModified(1428719219000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$4.class -> lastModified(1428719219000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$7$$anonfun$apply$1.class -> lastModified(1428719219000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$7.class -> lastModified(1428719219000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$8.class -> lastModified(1428719219000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$9.class -> lastModified(1428719219000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$RemoveStopWords$$joinFunc$1$1$$anonfun$5.class -> lastModified(1428719219000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$RemoveStopWords$$joinFunc$1$1$$anonfun$6.class -> lastModified(1428719219000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$RemoveStopWords$$joinFunc$1$1.class -> lastModified(1428719219000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$RemoveStopWords$$joinFunc$1$2.class -> lastModified(1428719219000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$RemoveStopWords$$stopFunc$1$1.class -> lastModified(1428719219000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class -> lastModified(1428719219000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$main$1.class -> lastModified(1428719219000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$main$2$$anonfun$12.class -> lastModified(1428719219000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$main$2$$anonfun$13.class -> lastModified(1428719219000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$$anonfun$main$2.class -> lastModified(1428719219000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords$.class -> lastModified(1428719219000)
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/target/scala-2.10/classes/RemoveStopWords.class -> lastModified(1428719219000)
+source stamps:
+1 items
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> hash(332dc90252ce6e07061c0b3c8c25e1de0ab6a898)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1418879070000)
+/Users/Alya/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.3.0.jar -> lastModified(1425598998000)
+/Users/Alya/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.3.0.jar -> lastModified(1425599015000)
+/Users/Alya/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> lastModified(1395179187000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/Alya/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.3.0.jar -> org.apache.spark.SparkContext$
+/Users/Alya/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.3.0.jar -> org.apache.spark.mllib.linalg.Vectors$
+/Users/Alya/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.package$
+internal apis:
+1 items
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAEOxXLAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cK2t9p50AAZub3RpZnlzcQB+AAx4jA0NdAAEd2FpdHNxAH4ADNVUgmV0AA0kYXNJbnN0YW5jZU9mc3EAfgAMfQMUHHQABmVxdWFsc3NxAH4ADK/9Lhx0AAxhc0luc3RhbmNlT2ZzcQB+AAwaSQHBdAAMc3luY2hyb25pemVkc3EAfgAMsuQ2MXQADSRpc0luc3RhbmNlT2ZzcQB+AAwwA/4FdAAEbWFpbnNxAH4ADLML1xV0AAlub3RpZnlBbGxzcQB+AAx91ngydAAMaXNJbnN0YW5jZU9mc3EAfgAMZkClKXQAD1JlbW92ZVN0b3BXb3Jkc3NxAH4ADMTufQF0AAI9PXNxAH4ADAs9Uth0AAVjbG9uZXNxAH4ADDw9iaZ0AAh0b1N0cmluZ3NxAH4ADNYEdFZ0AAIhPXNxAH4ADNfXjPN0AAhnZXRDbGFzc3NxAH4ADEYZquV0AAJuZXNxAH4ADCyWzqh0AAJlcXNxAH4ADKyQYtN0AAIjI3NxAH4ADCZYNFl0AAhmaW5hbGl6ZXNxAH4ADBF+x2V0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AI3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AFl4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFgAcHNxAH4AXXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AGFzcQB+AFgAcHNxAH4AXXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBgdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AfnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGt4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHJbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGBzcQB+AHF0AAVBcnJheXEAfgB3dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHF0AAZTdHJpbmdzcQB+AHVzcQB+AHh1cQB+AHsAAAADc3EAfgB9dAAEamF2YXNxAH4AfXQABGxhbmdxAH4AgnNxAH4AWABwc3EAfgBddXEAfgA8AAAAAHNxAH4AWABwc3EAfgBddXEAfgCWAAAAAnNxAH4AcXQABk9iamVjdHEAfgCac3EAfgBxdAADQW55cQB+AHd1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTKZNElx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABnL1VzZXJzL0FseWEvd29ya3NwYWNlL3NwYXJrLTEuMy4wLWJpbi1oYWRvb3AyLjQvU3BhcmsgUHJvamVjdHMvTERBTm9TdG9wV29yZHMvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDMtyQJSzm4HBhwLPIwl4d4KtqiY
+external apis:
+0 items
+source infos:
+1 items
+/Users/Alya/workspace/spark-1.3.0-bin-hadoop2.4/Spark Projects/LDANoStopWords/src/main/scala/RemoveStopWords.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTKZNElx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZy9Vc2Vycy9BbHlhL3dvcmtzcGFjZS9zcGFyay0xLjMuMC1iaW4taGFkb29wMi40L1NwYXJrIFByb2plY3RzL0xEQU5vU3RvcFdvcmRzL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
